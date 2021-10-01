@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkashish428.
-- 👀 I’m interested in Compititive Programming.
+- 👀 I’m interested in Competitive Programming.
 - 🌱 I’m currently learning Python.
 - 📫 Reach me through my Email kkashish428@gmail.com
 
