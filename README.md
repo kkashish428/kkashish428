@@ -18,8 +18,11 @@
 </h1>
 
 
-- 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Python.
+- 👀 Passionate Creative Graphic Designer and Web Developer with a zest for innovation.
+- 🌱 Currently pursuing B.Tech in Computer Science and Engineering, and proud winner of SIH'22.
+- 👩‍💻 I thrive on exploring the dynamic world of technology, embracing new challenges, and transforming ideas into engaging web experiences.
+- 🤝 Committed to leveraging my problem-solving skills and technical expertise to tackle real-world challenges and contribute to the ever-evolving web development landscape.
+- 💻 Let's code, create, and collaborate!
 - 📫 Reach me through my Email kkashish428@gmail.com.
 
 
